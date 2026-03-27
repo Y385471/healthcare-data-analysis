@@ -35,4 +35,5 @@ This project analyzes the performance of a dental clinic using Excel. The goal w
 - Optimize costs for Braces and Crowns.
 
 ## Screenshots
-- Add screenshots of Excel Pivot Tables and Charts here.
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e49e5094-aa94-4405-804d-91b3214aef08" />
+
